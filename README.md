@@ -1,6 +1,5 @@
 # DL_Project
 
-Here's a `README.md` file tailored for your **Facial Emotion Recognition Project** using **Transfer Learning** and **CNN**:
 
 ---
 
