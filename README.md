@@ -106,7 +106,3 @@ Manish Nair
 
 ```
 
----
-
-Let me know if you'd like me to add usage instructions for `Google Colab`, evaluation metrics, or links to pre-trained models.
-```
