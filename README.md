@@ -40,8 +40,7 @@ README.md                  # This file
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/emotion-recognition-dl.git
-cd emotion-recognition-dl
+git clone https://github.com/ManishNair01/DL_Project.git
 ```
 
 ### 2. Install required libraries
